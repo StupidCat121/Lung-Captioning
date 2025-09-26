@@ -1,2 +1,3 @@
-models/*
-img/*
+env
+.env
+prepare_data/*/raw
