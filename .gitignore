@@ -4,8 +4,8 @@ prepare_data/*/raw
 wandb/
 unsloth_compiled_cache/
 X-ray Lung Diseases Images (9 classes)/
-lung8_image_text/
 outputs/
 # Ignore all folders starting with "lora_model"
 lora_model*/
 unsloth_training_checkpoints/
+lung8_image_text/
