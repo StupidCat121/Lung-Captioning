@@ -11,3 +11,5 @@ unsloth_training_checkpoints/
 lung8_image_text/
 outputs_set*/
 vl_eval_predictions/
+outs/
+outs_fast/
