@@ -13,3 +13,5 @@ outputs_set*/
 vl_eval_predictions/
 outs/
 outs_fast/
+lung8_balanced_1000/
+lung8_image_text_balanced/
